@@ -1,0 +1,118 @@
+.mt-logo {
+    height: 52px !important;
+    max-width: 170px !important;
+}
+
+.motor-p {
+    font-size: 20px !important;
+    font-weight: 400 !important;
+}
+
+.pt-100 {
+    padding-top: 31px;
+}
+
+.single-odometer-item-2 h2 {
+    font-size: 51px !important;
+}
+
+.about-text {
+    text-align: justify;
+}
+
+.img {
+    max-width: 174% !important;
+}
+
+.ad-card {
+    border: none !important;
+}
+
+.page-banner-area {
+    padding-top: 138px !important;
+    padding-bottom: 30px !important;
+}
+
+.team {
+    position: relative !important;
+    z-index: 1 !important;
+    padding: 37px 0 !important;
+    left: 140px !important;
+}
+
+/* .single-about-image {
+
+    left: 140px !important;
+} */
+
+@media only screen and (max-width: 767px) {
+    .single-about-image {
+        padding-top: 10px !important;
+        padding-bottom: 10px !important;
+        left: 0 !important;
+        margin-bottom: 25px !important;
+        margin-left: 5px !important;
+        margin-right: 10px !important;
+    }
+}
+
+
+
+.fb {
+    color: aliceblue;
+}
+
+.nu {
+    color: aliceblue;
+}
+
+.main-navbar .navbar .navbar-nav .nav-item .nav-link.active {
+    color: #f14141 !important;
+}
+
+.main-navbar .navbar .navbar-nav .nav-item .nav-link:hover {
+    color: #f14141 !important;
+}
+
+.default-btn {
+    background-image: none !important;
+    background-color: #3e0356;
+}
+
+.contactheader {
+    color: white !important;
+}
+
+.btn1 {
+    background-color: #f14141;
+}
+
+.page-banner-area.blog-page-are {
+    background-image: url(../images/con.png);
+}
+
+.footer-area {
+    background-color: #ffeef1 !important;
+}
+
+.col {
+    color: white !important;
+}
+
+.imgs {
+    height: 410px;
+    max-width: 100%;
+}
+
+.team1 {
+    position: relative !important;
+    z-index: 1 !important;
+    padding: 37px 0 !important;
+    left: 88px !important;
+}
+
+.fon {
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 1rem;
+}
